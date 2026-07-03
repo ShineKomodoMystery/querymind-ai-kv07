@@ -1,4 +1,4 @@
-# 
+# Inteligente QueryMind descargador. Descarga e instala con sincronización en la nube y listo para Docker — rápido, seguro y fácil de usar.
 
 
 
